@@ -1,3 +1,4 @@
+#This codes wrote by gamerYazilimci67. 
 import string
 from random import *
 #Some parts of this code are in Turkish because it is my language. However, the introductory sentences are in English and will not cause you any trouble.
